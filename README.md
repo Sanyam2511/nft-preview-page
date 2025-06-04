@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub Repo](https://github.com/yourusername/nft-preview-card)
-- Live Site URL: [Live Demo](https://yourusername.github.io/nft-preview-card)
+- Solution URL: [GitHub Repo](https://github.com/Sanyam2511/nft-preview-page)
+- Live Site URL: [Live Demo](https://sanyam2511.github.io/nft-preview-page/)
 
 ## My process
 
@@ -48,10 +48,9 @@ This project helped reinforce my understanding of:
 
 - Structuring clean and semantic HTML
 - Using Flexbox for vertical and horizontal alignment
-- Implementing hover effects with opacity and transitions
-- Creating reusable CSS variables for color themes
+- Implementing hover effects
 
-Example of the overlay hover effect I implemented:
+Example of the hover effect I implemented:
 
 ```css
     .eth-container {
