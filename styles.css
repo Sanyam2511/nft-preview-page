@@ -1,0 +1,116 @@
+.main-container{
+    margin : 60px 400px 60px 400px;
+    padding: 0px;
+    background-color: hsl(216, 50%, 16%);
+    border-radius: 20px;
+    width: 300px;
+}
+
+img{
+    width:80%;
+    height:200px;
+    margin:20px 15px 20px 20px;
+    border-radius: 20px;
+}
+
+body{
+    background-color:hsl(217, 54%, 11%);
+    font-family: 'Outfit' , sans-serif;
+    font-size: small;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+h1{
+    padding: 0px 20px 0px 20px;
+    margin:0px 0px 10px 0px;
+    font-size: medium;
+    font-weight:bold ;
+    color: white;
+}
+
+h1:hover{
+    color: hsl(178, 100%, 50%);
+    cursor: pointer;
+}
+
+h3{
+    padding: 0px 20px 0px 20px;
+    margin:0px 0px 10px 0px;
+    font-weight: 300;
+    font-size: small;
+}
+
+hr{
+  border: none;
+  border-top: 0.1px solid hsl(215, 51%, 70%);
+  margin: 0px 20px 10px 20px;
+}
+
+.eth-container {
+  display: flex;
+  align-items: center; 
+  color: hsl(178, 100%, 50%);
+  font-family: 'outfit' , sans-serif;
+  font-weight: bold;
+  font-size: small;
+  margin: 0px;
+}
+
+.eth-icon {
+  width: 10px;  
+  height: auto;
+  margin: 0px 4px 0px 20px;
+}
+
+.eth-icon:hover{
+    cursor: pointer;
+    color: hsl(178, 100%, 50%);
+}
+
+.day-text{
+    margin-left: 2px;
+    font-weight: 300;
+    font-size: small;
+    
+}
+
+.clock-icon{
+    width: 15px;  
+  height: auto;
+  margin-right: 2px;
+  margin-left: 80px;
+}
+
+.creation-container {
+  display: flex;
+  align-items: center; 
+  color: hsl(178, 100%, 50%);
+  font-family: 'outfit' , sans-serif;
+  font-size: small;
+  margin: 5px 0px 20px 0px;
+}
+
+.avatar {
+  width: 20px;  
+  height: auto;
+  margin: 0px 4px 0px 20px;
+  border-style: solid;
+  border-color: white;
+}
+
+.name{
+    color: white;
+    margin: 2px;
+}
+
+.name:hover{
+    color: hsl(178, 100%, 50%);
+    cursor: pointer;
+}
+
+@media (max-width: 768px) {
+
+}
